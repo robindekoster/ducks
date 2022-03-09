@@ -1,0 +1,11 @@
+C:\Users\robin\source\repos\Ducks\Ducks\bin\Release\netcoreapp2.1\Ducks.deps.json
+C:\Users\robin\source\repos\Ducks\Ducks\bin\Release\netcoreapp2.1\Ducks.runtimeconfig.json
+C:\Users\robin\source\repos\Ducks\Ducks\bin\Release\netcoreapp2.1\Ducks.runtimeconfig.dev.json
+C:\Users\robin\source\repos\Ducks\Ducks\bin\Release\netcoreapp2.1\Ducks.dll
+C:\Users\robin\source\repos\Ducks\Ducks\bin\Release\netcoreapp2.1\Ducks.pdb
+C:\Users\robin\source\repos\Ducks\Ducks\obj\Release\netcoreapp2.1\Ducks.csprojAssemblyReference.cache
+C:\Users\robin\source\repos\Ducks\Ducks\obj\Release\netcoreapp2.1\Ducks.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Ducks\Ducks\obj\Release\netcoreapp2.1\Ducks.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\Ducks\Ducks\obj\Release\netcoreapp2.1\Ducks.AssemblyInfo.cs
+C:\Users\robin\source\repos\Ducks\Ducks\obj\Release\netcoreapp2.1\Ducks.dll
+C:\Users\robin\source\repos\Ducks\Ducks\obj\Release\netcoreapp2.1\Ducks.pdb
